@@ -1,0 +1,57 @@
+﻿  Interface.cpp
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(115): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(239): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(242): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(255): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(258): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(437): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(467): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(164): warning C4101: err: неиспользованная локальная переменная
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(489): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(495): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(508): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(513): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(633): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(635): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(643): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(651): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(658): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(663): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(667): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(672): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(674): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(679): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(682): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(687): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(690): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(695): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(698): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(703): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(706): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(713): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\huawei\desktop\программирование\repos\курсовая работа по тп\курсовая работа по тп\interface.cpp(550): warning C4715: Interface::if_Win: значение возвращается не при всех путях выполнения
+  Курсовая работа по ТП.vcxproj -> C:\Users\Huawei\Desktop\Программирование\repos\Курсовая работа по ТП\x64\Debug\Курсовая работа по ТП.exe
